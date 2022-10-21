@@ -1,9 +1,30 @@
 main {
     display: flex;
 }
-.icons {
+main img {
     width: 250px ;
     height: 250px;
+    border-style: solid;
+    border-radius: 5px;
+}
+.icons-one {
+    background-color: #70C0C9;
+    color: #70C0C9;
+}
+.icons-two {
+    background-color: #4074bd;
+    color: #4074bd;
+    
+}
+.icons-three {
+    background-color: #E05E46;
+    color: #E05E46;
+    
+}
+.icons-four {
+    background-color: #919191;
+    color: #919191;
+
 }
 .rows {
     padding: 20px;
